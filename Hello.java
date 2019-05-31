@@ -6,5 +6,10 @@ class Simple{
 
         System.out.println("created new branch  --> ngs");
 
+
+     System.out.println("Hello Java World..");  
+
+     System.out.println("Hello Java World..");  
+
     }  
 }  
