@@ -12,7 +12,7 @@ class Simple{
 
      System.out.println("Hello Java World..");  
 
-     System.out.println("Reverted from staged???..");  
+    
 
     }  
 }  
